@@ -1,0 +1,4 @@
+Como montar os programas?
+python3 assembler.py ./questoes/qx.asm ./arquivos bin/qx.bin 
+
+Como executar?  python3 computador_disco.py ./arquivos bin/qx.bin
